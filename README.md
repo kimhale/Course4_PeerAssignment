@@ -1,2 +1,2 @@
 # Course4_PeerAssignment
-Peer graded assignment project to demonstrate collecting, working with, and cleaning a data set.
+The purpose of this project is to demonstrate collecting, working with, and cleaning a data set. The goal is to prepare tidy data that can be used for later analysis. This repo contains: 1) the code file run_analysis.R that creates a tidy dataset, 2) the  tidy dataset output of run_analysis.R, , and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
